@@ -37,19 +37,19 @@ You are required to model the price of houses with the available independent var
 - Python Libraries Used
   
 import numpy as np <br>
-import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-from sklearn import linear_model, metrics
-from sklearn.linear_model import LinearRegression
-from sklearn.linear_model import Ridge
-from sklearn.linear_model import Lasso
-from sklearn.model_selection import GridSearchCV
-from sklearn.metrics import mean_squared_error, r2_score
-import os
-from sklearn.preprocessing import scale
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import r2_score, mean_squared_error
+import pandas as pd <br>
+import matplotlib.pyplot as plt <br>
+import seaborn as sns <br>
+from sklearn import linear_model, metrics <br>
+from sklearn.linear_model import LinearRegression <br>
+from sklearn.linear_model import Ridge <br>
+from sklearn.linear_model import Lasso <br>
+from sklearn.model_selection import GridSearchCV <br>
+from sklearn.metrics import mean_squared_error, r2_score <br>
+import os <br>
+from sklearn.preprocessing import scale <br>
+from sklearn.model_selection import train_test_split <br>
+from sklearn.metrics import r2_score, mean_squared_error <br>
 
 - Development Tool
  
