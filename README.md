@@ -1,8 +1,6 @@
-# predict_house_price
-Build a regression model using regularization
-
-# Project Name
-> Outline a brief description of your project.
+# House Price Prediction 
+> Develop a regression model to predict the house price based on parameters provided .
+> First , develop a linear regression model, then ridge and lasso regression model and compare 3 models .
 
 
 ## Table of Contents
