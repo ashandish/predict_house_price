@@ -1,6 +1,6 @@
 # House Price Prediction 
-> Develop a regression model to predict the house price based on parameters provided .
-> First , develop a linear regression model, then ridge and lasso regression model and compare 3 models .
+Develop a regression model to predict the house price based on parameters provided. <br>
+Firstly, develop a linear regression model, then ridge and lasso regression model and compare 3 models.
 
 
 ## Table of Contents
@@ -9,10 +9,8 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-
 
 - Problem Statement
   A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia. The data is provided in the CSV file below.
@@ -64,17 +62,9 @@ Github
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by ashandish@yahoo.com - feel free to contact me!
 
 
 <!-- Optional -->
