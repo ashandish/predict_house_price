@@ -36,7 +36,7 @@ You are required to model the price of houses with the available independent var
 ## Technologies Used
 - Python Libraries Used
   
-import numpy as np
+import numpy as np <br>
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
