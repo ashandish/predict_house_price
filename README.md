@@ -7,7 +7,7 @@ Firstly, develop a linear regression model, then ridge and lasso regression mode
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+* [Contact](#contact)
 
 
 ## General Information
