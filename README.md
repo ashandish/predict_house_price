@@ -1,6 +1,5 @@
 # House Price Prediction 
-Develop a regression model to predict the house price based on parameters provided. <br>
-Firstly, develop a linear regression model, then ridge and lasso regression model and compare 3 models.
+Develop regression model using regularization techniques to predict the house price based on dataset provided. <br>
 
 
 ## Table of Contents
@@ -57,10 +56,21 @@ Github
 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+The 5 most significant predictor variables as per Ridge regression model are 
+OverallQual
+GrLivArea
+Neighborhood_NoRidge
+Condition2_PosN
+Neighborhood_NridgHt
+
+The 5 most significant predictor variables as per Lasso Regression model are
+RoofMatl_CompShg
+GrLivArea
+RoofMatl_WdShngl
+RoofMatl_Tar&Grv
+OverallQual
+
+
 
 
 ## Contact
